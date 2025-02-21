@@ -16,18 +16,18 @@
   <header>
     <nav>
       <ul>
-        <li><a href="/ywanglab/">Home</a></li>
-        <li><a href="/ywanglab/research">Research</a></li>
-        <li><a href="/ywanglab/team">Team</a></li>
-        <li><a href="/ywanglab/publications">Publications</a></li>
-        <li><a href="/ywanglab/resources">Resources</a></li>
-        <li><a href="/ywanglab/openings">Openings</a></li>
-        <li><a href="/ywanglab/contact">Contact</a></li>
+        <li><a href="{{ '' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/research' | relative_url }}">Research</a></li>
+        <li><a href="{{ '/team' | relative_url }}">Team</a></li>
+        <li><a href="{{ '/publications' | relative_url }}">Publications</a></li>
+        <li><a href="{{ '/resources' | relative_url }}">Resources</a></li>
+        <li><a href="{{ '/openings' | relative_url }}">Openings</a></li>
+        <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
       </ul>
     </nav>
     <div class="banner">
       <div class="logo-container">
-        <img src="/ywanglab/imgs/logo.png" alt="Lab Logo" style="width:350px; height:auto;">
+        <img src="{{ '/imgs/logo.png' | relative_url }}" alt="Lab Logo" style="width:350px; height:auto;">
       </div>
     </div>
   </header>
@@ -37,7 +37,7 @@
   </div>
   <div class="logo">
     <!-- Ensure the correct path to the Cornell logo -->
-    <img src="/ywanglab/assets/images/cornell_logo.png" alt="Cornell Logo">
+    <img src="{{ '/imgs/cornell_logo.svg' | relative_url }}" alt="Cornell Logo">
   </div>
   {% endif %}
   <main>

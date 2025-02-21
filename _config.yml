@@ -1,9 +1,10 @@
+theme: 
 title: Y. Wang Lab @ Cornell
 email: yuhanwang@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Y. Wang Lab @ Cornell
 baseurl: "/ywanglab" # the subpath of your site, e.g. /blog
-url: "https://wangyuhan01.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ywanglab.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: None
 github_username: wangyuhan01
 

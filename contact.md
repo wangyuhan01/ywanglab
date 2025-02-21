@@ -6,7 +6,11 @@ title: Contact
 ## Contact
 
 <div style="text-align: center;">
-    <img src="/cornell.jpeg" alt="Cornell University" class="cornell-pic" style="width: 70%; height: auto; margin-top: 20px; border-radius: 0 !important; clip-path: none !important;">
-    <p>218 Savage Hall, 244 Garden Ave, Ithaca, NY 14853<br>
-    yuhanwang@cornell.edu</p>
+    <img src="/ywanglab/imgs/DNS.jpeg" alt="Division of Nutritional Sciences" class="DNS-pic" style="width: 50%; height: auto; margin-top: 20px; border-radius: 0 !important; clip-path: none !important;">
+    <p>We are situated in the Kinzelberg/Savage Hall <br>
+    on the Cornell ithaca campus.
+    </p>
+    <p>Address: 244 Garden Ave, <br>
+    Ithaca, NY 14853<br>
+    Email: yuhanwang@cornell.edu</p>
 </div>

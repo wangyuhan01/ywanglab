@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="/ywanglab/assets/css/style.css">
+  <link rel="stylesheet" href="/ywanglab/assets/css/custom.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="/ywanglab/">Home</a></li>
+        <li><a href="/ywanglab/people">People</a></li>
+        <li><a href="/ywanglab/research">Research</a></li>
+        <li><a href="/ywanglab/publications">Publications</a></li>
+        <li><a href="/ywanglab/code">Code</a></li>
+        <li><a href="/ywanglab/contact">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="banner">
+      <div class="logo-container">
+        <img src="/ywanglab/brain_logo.png" alt="NeuroAI Logo">
+        <h1 class="banner-title">Y. Wang Lab</h1>
+      </div>
+    </div>
+  </header>
+  {% if page.title == "Home" %}
+  <div class="header-title">
+    <h1>Sun Lab</h1>
+  </div>
+  <div class="logo">
+    <!-- Ensure the correct path to the Cornell logo -->
+    <img src="/ywanglab/assets/images/cornell_logo.png" alt="Cornell Logo">
+  </div>
+  {% endif %}
+  <main>
+    <div class="content-container">
+      {{ content }}
+    </div>
+  </main>
+  <footer class="footer">
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+  </footer>
+</body>
+</html>

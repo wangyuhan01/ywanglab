@@ -42,6 +42,6 @@ title: Y.Wang Lab @ Cornell
 <p style="font-size: 1.5em; line-height: 1.5em; max-width: 800px; margin: 0 auto;">
         We develop methods to study how our brain regulates nutrient metabolism and how nutrients influence brain health. 
     </p>
-<img src="/ywanglab/imgs/cornell_logo.svg" alt="Cornell University Logo" class="cornell-logo" style="margin-top: 40px; width: 20%; height: auto;">
+<img src="{{ '/imgs/cornell_logo.svg' | relative_url }}" alt="Cornell University Logo" class="cornell-logo" style="margin-top: 40px; width: 20%; height: auto;">
 
 </div>

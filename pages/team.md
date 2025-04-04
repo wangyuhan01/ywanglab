@@ -25,7 +25,7 @@ title: People
     <div class="person-affiliation">Nutrition program</div>
   </div>
   <div class="person">
-    <img class="headshot" src="{{ '/imgs/Jeslyn.jpg' | relative_url }}" class="d-block w-100" alt="Jeslyn Choudhury">
+    <img class="headshot" src="{{ '/imgs/Jeslyn.jpg' | relative_url }}" alt="Jeslyn Choudhury">
     <div class="person-title">Jeslyn Choudhury</div>
     <div class="person-role">Undergraduate researcher</div>
   </div>

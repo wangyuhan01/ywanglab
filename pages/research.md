@@ -15,6 +15,6 @@ title: Research
     </div>
     -->
     <div class="research-description">
-        <p>The lab develops and integrates modern molecular techniques, including spatial transcriptomics, with advanced systems neuroscience tools to study the neural mechanisms underlying nutrient metabolism (e.g.,glucose metabolism). By leveraging these techqnies, we aim to better understand how the brain regulates metabolic functions and how disruptions in these circuits contribute to the onset and progression of metabolic diseases, such as obesity and type 2 diabetes. We also study the impact of various macronutrients on brain function and health, examining how nutritional factors can influence neural circuits and overall mental health.</p>
+        <p>The lab develops and integrates modern molecular techniques, including spatial transcriptomics, with advanced systems neuroscience tools to study the neural mechanisms underlying nutrient metabolism. By leveraging these techniques, we aim to better understand how the brain regulates metabolic functions and how disruptions in these circuits contribute to the onset and progression of metabolic diseases, such as obesity and type 2 diabetes. We also study the impact of various macronutrients on brain function and health, examining how nutritional factors can influence neural circuits and overall mental health.</p>
     </div>
 </div>

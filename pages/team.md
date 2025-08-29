@@ -24,13 +24,24 @@ title: People
     <div class="person-role">Graduate Student</div>
     <div class="person-affiliation">Nutrition program</div>
   </div>
+    <div class="person">
+    <img class="headshot" src="{{ '/imgs/Jiaqi.jpg' | relative_url }}" alt="Jiaqi Li">
+    <div class="person-title">Jiaqi Li</div>
+    <div class="person-role">Graduate Student</div>
+    <div class="person-affiliation">Nutrition program</div>
+  </div>
   <div class="person">
     <img class="headshot" src="{{ '/imgs/Jeslyn.jpg' | relative_url }}" alt="Jeslyn Choudhury">
     <div class="person-title">Jeslyn Choudhury</div>
     <div class="person-role">Undergraduate researcher</div>
   </div>
 </div>
-
+  <div class="person">
+    <img class="headshot" src="{{ '/imgs/.jpg' | relative_url }}" alt="Ruth Chukwuanu">
+    <div class="person-title">Ruth Chukwuanu</div>
+    <div class="person-role">Undergraduate researcher</div>
+  </div>
+</div>
 ### Lab Photos
 <div id="myCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2500">
   <!-- Indicators -->
@@ -45,6 +56,9 @@ title: People
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="{{ '/imgs/labphoto/lab_gather.JPG' | relative_url }}" class="d-block" style="width: 60%; height: auto; margin: 0 auto;" alt="Sijun Farewell">
+    </div>
+     <div class="carousel-item">
+      <img src="{{ '/imgs/labphoto/Lunch_MVR.JPG' | relative_url }}" class="d-block" style="width: 60%; height: auto; margin: 0 auto;" alt="MVR_lunch">
     </div>
     <div class="carousel-item">
       <img src="{{ '/imgs/labphoto/myer_park.JPG' | relative_url }}" class="d-block" style="width: 60%; height: auto; margin: 0 auto;" alt="myer park">

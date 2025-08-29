@@ -35,13 +35,13 @@ title: People
     <div class="person-title">Jeslyn Choudhury</div>
     <div class="person-role">Undergraduate researcher</div>
   </div>
-</div>
   <div class="person">
     <img class="headshot" src="{{ '/imgs/.jpg' | relative_url }}" alt="Ruth Chukwuanu">
     <div class="person-title">Ruth Chukwuanu</div>
     <div class="person-role">Undergraduate researcher</div>
   </div>
 </div>
+  
 ### Lab Photos
 <div id="myCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2500">
   <!-- Indicators -->

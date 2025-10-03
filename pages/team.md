@@ -7,31 +7,31 @@ title: People
 
 <div class="people-section">
   <div class="person">
-    <img class="headshot" src="{{ '/imgs/People/Yuhan_Wang.jpg' | relative_url }}" alt="Yuhan Wang">
+    <img class="headshot" src="{{ '/imgs/people/Yuhan_Wang.jpg' | relative_url }}" alt="Yuhan Wang">
     <div class="person-title">Yuhan Wang</div>
     <div class="person-role">Assistant Professor</div>
     <div class="person-affiliation">Division of Nutritional Sciences</div>
   </div>
   <div class="person">
-    <img class="headshot" src="{{ '/imgs/People/Risa_Mark.png' | relative_url }}" alt="Risa Y Mark">
+    <img class="headshot" src="{{ '/imgs/people/Risa_Mark.png' | relative_url }}" alt="Risa Y Mark">
     <div class="person-title">Risa Y Mark</div>
     <div class="person-role">Lab Manager</div>
     <div class="person-affiliation">Division of Nutritional Sciences</div>
   </div>
   <div class="person">
-    <img class="headshot" src="{{ '/imgs/People/Ziyang_Wang.jpg' | relative_url }}" alt="Ziyang Wang">
+    <img class="headshot" src="{{ '/imgs/people/Ziyang_Wang.jpg' | relative_url }}" alt="Ziyang Wang">
     <div class="person-title">Ziyang Wang</div>
     <div class="person-role">Graduate Student</div>
     <div class="person-affiliation">Nutrition program</div>
   </div>
     <div class="person">
-    <img class="headshot" src="{{ '/imgs/People/Jiaqi.jpg' | relative_url }}" alt="Jiaqi Li">
+    <img class="headshot" src="{{ '/imgs/people/Jiaqi.jpg' | relative_url }}" alt="Jiaqi Li">
     <div class="person-title">Jiaqi Li</div>
     <div class="person-role">Graduate Student</div>
     <div class="person-affiliation">Nutrition program</div>
   </div>
   <div class="person">
-    <img class="headshot" src="{{ '/imgs/People/Jeslyn.jpg' | relative_url }}" alt="Jeslyn Choudhury">
+    <img class="headshot" src="{{ '/imgs/people/Jeslyn.jpg' | relative_url }}" alt="Jeslyn Choudhury">
     <div class="person-title">Jeslyn Choudhury</div>
     <div class="person-role">Undergraduate researcher</div>
   </div>

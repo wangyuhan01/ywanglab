@@ -8,7 +8,7 @@ title: Yuhan Wang Lab
 <!--   <img src="/ywanglab/imgs/DNS.jpeg" alt="Division of Nutritional Sciences" class="DNS-pic" style="width: 50%; height: auto; margin-top: 20px; border-radius: 0 !important; clip-path: none !important;"> -->
     <h1 style="font-size: 2.0em; font-weight: bold;">Welcome to the Y. Wang Lab!  </h1>
     
-<div id="myCarousel" class="carousel slide" data-bs-ride="true" data-bs-interval="2500">
+<div id="myCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2500" data-bs-pause="false" data-bs-wrap="true">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>

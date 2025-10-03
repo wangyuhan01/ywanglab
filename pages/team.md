@@ -43,13 +43,14 @@ title: People
 </div>
   
 ### Lab Photos
-<div id="myCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2500">
+<div id="myCarouselPhotos" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2500" data-bs-pause="false" data-bs-wrap="true">
   <!-- Indicators -->
   <div class="carousel-indicators">
-    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#myCarouselPhotos" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#myCarouselPhotos" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#myCarouselPhotos" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#myCarouselPhotos" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#myCarouselPhotos" data-bs-slide-to="4" aria-label="Slide 5"></button>
   </div>
 
   <!-- Carousel items -->
@@ -57,14 +58,14 @@ title: People
     <div class="carousel-item active">
       <img src="{{ '/imgs/labphoto/lab_gather.JPG' | relative_url }}" class="d-block" style="width: 60%; height: auto; margin: 0 auto;" alt="Sijun Farewell">
     </div>
-     <div class="carousel-item">
+    <div class="carousel-item">
       <img src="{{ '/imgs/labphoto/Lunch_MVR.JPG' | relative_url }}" class="d-block" style="width: 60%; height: auto; margin: 0 auto;" alt="MVR_lunch">
     </div>
     <div class="carousel-item">
       <img src="{{ '/imgs/labphoto/myer_park.JPG' | relative_url }}" class="d-block" style="width: 60%; height: auto; margin: 0 auto;" alt="myer park">
     </div>
-     <div class="carousel-item">
-      <img src="{{ '/imgs/labphoto/buttermilk.JPG' | relative_url }}" class="d-block" style="width: 40%; height: auto; margin: 0 auto;"  alt="buttermilk">
+    <div class="carousel-item">
+      <img src="{{ '/imgs/labphoto/buttermilk.JPG' | relative_url }}" class="d-block" style="width: 40%; height: auto; margin: 0 auto;" alt="buttermilk">
     </div>
     <div class="carousel-item">
       <img src="{{ '/imgs/labphoto/nl.JPG' | relative_url }}" class="d-block" style="width: 40%; height: auto; margin: 0 auto;" alt="northern light">
@@ -72,11 +73,11 @@ title: People
   </div>
 
   <!-- Controls -->
-  <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#myCarouselPhotos" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#myCarouselPhotos" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>

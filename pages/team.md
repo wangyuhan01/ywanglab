@@ -18,6 +18,12 @@ title: People
     <div class="person-role">Lab Manager</div>
     <div class="person-affiliation">Division of Nutritional Sciences</div>
   </div>
+    <div class="person">
+    <img class="headshot" src="{{ '/imgs/people/Shuchang_Zhao.jpg' | relative_url }}" alt="Shuchang Zhao">
+    <div class="person-title">Shuchang Zhao</div>
+    <div class="person-role">Postdoc Fellow</div>
+    <div class="person-affiliation">Division of Nutritional Sciences</div>
+  </div>
   <div class="person">
     <img class="headshot" src="{{ '/imgs/people/Ziyang_Wang.jpg' | relative_url }}" alt="Ziyang Wang">
     <div class="person-title">Ziyang Wang</div>

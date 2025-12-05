@@ -88,6 +88,15 @@ title: News
 <div class="Lab-News">
 
   <!-- Example item -->
+  <article>
+    <img src="{{ '/imgs/news/2025_holiday.jpg' | relative_url }}" alt="2025 Holiday Dinner" loading="lazy">
+    <div class="text">
+      <div class="meta">Dec 2025</div>
+      <h3>Happy Holidays</h3>
+      <p>We had a lab holiday party at MIX. Happy holidays, everyone and look forward to a new year of great science! </p>
+    </div>
+  </article>
+
    <article>
     <img src="{{ '/imgs/news/new_lab.JPEG' | relative_url }}" alt="Hello, new lab" loading="lazy">
     <div class="text">

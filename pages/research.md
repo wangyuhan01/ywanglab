@@ -6,7 +6,7 @@ title: Research
 ## Research
 <div class="research-container">
   <div class="research-description">
-      <p>Cells are the fundamental units of tissues and organs. Diverse cell types are spatially organized to produce complex functions, and their identities and states are dynamic. They are modulated by environmental cues and physiological demand. They can also be reprogrammed by targeted transcriptional or circuit-level perturbations. The Y. Wang Lab studies how cellular diversity generates coordinated physiology. We develop and adapt molecular tools to map and perturb cell types in their native context across scales. With a focus on the brain-pancreas axis, we aim to link cellular state and circuit architecture to energy homeostasis and metabolic regulation, with the goal of ultimately translating these insights to prevent and treat metabolic diseases.</p>
+      <p>Cells are the fundamental units of tissues and organs. Diverse cell types are spatially organized to produce complex functions. Cellular identities and states are dynamic: they are modulated by environmental cues and physiological demand; they can also be reprogrammed by targeted transcriptional or circuit-level perturbations. The Y. Wang Lab studies how cellular diversity generates coordinated physiology. We develop and adapt molecular tools to map and perturb cell types in their native context across scales. With a focus on the brain-pancreas axis, we aim to link cellular state and circuit architecture to energy homeostasis and metabolic regulation, with the goal of ultimately translating these insights to prevent and treat metabolic diseases.</p>
   </div>
 </div>
 

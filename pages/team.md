@@ -62,6 +62,9 @@ title: People
   <!-- Carousel items -->
   <div class="carousel-inner">
     <div class="carousel-item active">
+      <img src="{{ '/imgs/labphoto/2025_holiday.jpg' | relative_url }}" class="d-block" style="width: 60%; height: auto; margin: 0 auto;" alt="2025 Holiday party">
+    </div>
+    <div class="carousel-item active">
       <img src="{{ '/imgs/labphoto/lab_gather.JPG' | relative_url }}" class="d-block" style="width: 60%; height: auto; margin: 0 auto;" alt="Sijun Farewell">
     </div>
     <div class="carousel-item">

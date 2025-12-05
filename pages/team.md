@@ -65,12 +65,12 @@ title: People
     <div class="carousel-item active">
       <img src="{{ '/imgs/labphoto/2025_holiday.jpg' | relative_url }}" class="d-block" style="width: 60%; height: auto; margin: 0 auto;" alt="2025 Holiday party">
     </div>
-    <div class="carousel-item active">
-      <img src="{{ '/imgs/labphoto/lab_gather.JPG' | relative_url }}" class="d-block" style="width: 60%; height: auto; margin: 0 auto;" alt="Sijun Farewell">
-    </div>
     <div class="carousel-item">
       <img src="{{ '/imgs/labphoto/Lunch_MVR.JPG' | relative_url }}" class="d-block" style="width: 60%; height: auto; margin: 0 auto;" alt="MVR_lunch">
     </div>
+    <div class="carousel-item active">
+      <img src="{{ '/imgs/labphoto/lab_gather.JPG' | relative_url }}" class="d-block" style="width: 60%; height: auto; margin: 0 auto;" alt="Sijun Farewell">
+    </div>  
     <div class="carousel-item">
       <img src="{{ '/imgs/labphoto/myer_park.JPG' | relative_url }}" class="d-block" style="width: 60%; height: auto; margin: 0 auto;" alt="myer park">
     </div>

@@ -52,7 +52,7 @@ title: People
     <div class="person-role">Undergraduate researcher</div>
   </div>
   <div class="person">
-    <img class="headshot" src="{{ '/imgs/Fikre.JPG' | relative_url }}" alt="Fikremariam Tewodros">
+    <img class="headshot" src="{{ '/imgs/people/Fikre.JPG' | relative_url }}" alt="Fikremariam Tewodros">
     <div class="person-title">Fikremariam Tewodros</div>
     <div class="person-role">Undergraduate researcher</div>
   </div>

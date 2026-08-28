@@ -46,6 +46,21 @@ title: People
     <div class="person-title">Ruth Chukwuanu</div>
     <div class="person-role">Undergraduate researcher</div>
   </div>
+  <div class="person">
+    <img class="headshot" src="{{ '/imgs/Cornell_Mascot.jpg' | relative_url }}" alt="Moatapari Agbere">
+    <div class="person-title">Moatapari Agbere</div>
+    <div class="person-role">Undergraduate researcher</div>
+  </div>
+  <div class="person">
+    <img class="headshot" src="{{ '/imgs/Fikre.JPG' | relative_url }}" alt="Fikremariam Tewodros">
+    <div class="person-title">Fikremariam Tewodros</div>
+    <div class="person-role">Undergraduate researcher</div>
+  </div>
+  <div class="person">
+    <img class="headshot" src="{{ '/imgs/Cornell_Mascot.jpg' | relative_url }}" alt="Nicholas Castillo">
+    <div class="person-title">Nicholas Castillo</div>
+    <div class="person-role">Undergraduate researcher</div>
+  </div>
 </div>
   
 ### Lab Photos

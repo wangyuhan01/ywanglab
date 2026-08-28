@@ -61,6 +61,11 @@ title: People
     <div class="person-title">Nicholas Castillo</div>
     <div class="person-role">Undergraduate researcher</div>
   </div>
+  <div class="person">
+    <img class="headshot" src="{{ '/imgs/people/Brianna.jpg' | relative_url }}" alt="Brianna Fan">
+    <div class="person-title">Brianna Fan</div>
+    <div class="person-role">Undergraduate researcher</div>
+  </div>
 </div>
   
 ### Lab Photos
